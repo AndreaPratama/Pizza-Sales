@@ -38,6 +38,7 @@ The model is Snowflake Schema
 
 ## Analyze & Visualization
 The resulting dashboard will be used by analysts and accessed daily through the PC/Desktop platform. Monitored metrics include Total Sales (Actual Sales), Total Orders, and Average Order Value. Specific data points requiring attention include pizzas without prices, orders without timestamps, and order details without quantities. Information such as the most popular pizza types/categories, sales trends, and other insights will be considered.
+
 This report have 2 page :
 - Analysis
 - Detail
