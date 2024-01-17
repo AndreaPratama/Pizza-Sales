@@ -43,6 +43,8 @@ This report have 2 page :
 - Analysis
 - Detail
 
+![](PizzaSales.png)
+
 ### You can interact with report here _[Novypro](https://www.novypro.com/project/pizza-sales-15)_
 
 # Conclusion
